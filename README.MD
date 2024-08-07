@@ -16,3 +16,4 @@
 015 Styling NextJS Project Your Options & Using CSS Modules
 016 Optimizing Images with the NextJS Image Component
 017 Using More Custom Components
+018 Populating The Starting Page Content
