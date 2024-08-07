@@ -12,3 +12,4 @@
 011 Exercise Your Task
 012 Exercise Solution
 013 Revisiting The Concept Of Layouts
+014 Adding a Custom Component To A Layout
