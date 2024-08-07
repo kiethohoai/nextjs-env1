@@ -13,3 +13,4 @@
 012 Exercise Solution
 013 Revisiting The Concept Of Layouts
 014 Adding a Custom Component To A Layout
+015 Styling NextJS Project Your Options & Using CSS Modules
