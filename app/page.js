@@ -7,33 +7,15 @@ export default function Home() {
         Time to get started!
       </h1>
 
-      <h1
-        style={{
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'center',
-        }}
-      >
+      <h1>
         <Link href="/meals">Goto Meals Page</Link>
       </h1>
 
-      <h1
-        style={{
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'center',
-        }}
-      >
+      <h1>
         <Link href="/meals/share">Goto Share Page</Link>
       </h1>
 
-      <h1
-        style={{
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'center',
-        }}
-      >
+      <h1>
         <Link href="/community">Goto Community Page</Link>
       </h1>
     </main>
