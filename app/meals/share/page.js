@@ -1,3 +1,13 @@
-export default function SharePage() {
-  return <h1 style={{ display: "flex", alignItems: "center", justifyContent: "center" }}>Share Page</h1>;
+export default function ShareMealPage() {
+  return (
+    <h1
+      style={{
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'center',
+      }}
+    >
+      Share Page
+    </h1>
+  );
 }
