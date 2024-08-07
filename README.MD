@@ -7,3 +7,4 @@
 006 Working with Pages & Layouts
 007 Reserved File Names, Custom Components & How To Organize A NextJS Project
 008 Reserved Filenames
+009 Configuring Dynamic Routes & Using Route Parameters
