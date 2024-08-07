@@ -17,3 +17,4 @@
 016 Optimizing Images with the NextJS Image Component
 017 Using More Custom Components
 018 Populating The Starting Page Content
+019 Preparing an Image Slideshow
