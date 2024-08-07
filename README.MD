@@ -18,3 +18,4 @@
 017 Using More Custom Components
 018 Populating The Starting Page Content
 019 Preparing an Image Slideshow
+020 React Server Components vs Client Components - When To Use What

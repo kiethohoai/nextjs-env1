@@ -1,6 +1,6 @@
+'use client';
 import { useEffect, useState } from 'react';
 import Image from 'next/image';
-import classes from './image-slideshow.module.css';
 
 import burgerImg from '@/assets/burger.jpg';
 import curryImg from '@/assets/curry.jpg';
@@ -42,6 +42,7 @@ export default function ImageSlideshow() {
           src={image.image}
           className={index === currentImageIndex ? classes.active : ''}
           alt={image.alt}
+          priority
         />
       ))}
     </div>
