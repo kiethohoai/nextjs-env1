@@ -20,3 +20,4 @@
 019 Preparing an Image Slideshow
 020 React Server Components vs Client Components - When To Use What
 021 Using Client Components Efficiently
+022 Outputting Meals Data & Images With Unknown Dimensions
